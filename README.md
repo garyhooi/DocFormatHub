@@ -6,7 +6,7 @@ DocFormatHub is a comprehensive suite of developer tools designed to run entirel
 
 ## 🚀 Visit the website
 
-** `https://docformathub.com` **
+**[Launch DocFormatHub](https://docformathub.com)**
 
 ---
 
