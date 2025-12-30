@@ -4,9 +4,9 @@
 
 DocFormatHub is a comprehensive suite of developer tools designed to run entirely in your browser. Whether you need to convert documents to Markdown, format JSON, or generate secure passwords, DocFormatHub provides a fast, secure, and private environment for your daily tasks.
 
-## 🚀 Live Demo
+## 🚀 Visit the website
 
-**[Launch DocFormatHub](https://docformathub.com)**
+** `https://docformathub.com` **
 
 ---
 
@@ -16,6 +16,7 @@ All tools are processed locally on your machine. No data is ever sent to a serve
 
 ### 📄 Document Conversion
 - **Doc to Markdown**: Convert Word (.docx), PDF, HTML, and Text files into clean Markdown. Supports batch processing and instant preview.
+- **Markdown Live Previewer**: Real-time Markdown editor and previewer. Convert Markdown to HTML instantly.
 
 ### 🔄 Formatters & Converters
 - **JSON Formatter**: Validate, beautify, and minify JSON data.
@@ -30,6 +31,7 @@ All tools are processed locally on your machine. No data is ever sent to a serve
 - **Regex Tester**: Test and validate regular expressions.
 - **String Builder**: Tools for string manipulation.
 - **Password Generator**: Generate strong, secure passwords with custom criteria.
+- **MD5 Generator**: Generate MD5 hashes from text input.
 
 ---
 
@@ -75,4 +77,4 @@ DocFormatHub is built with modern web technologies to ensure speed and reliabili
 
 ---
 
-&copy; 2024 DocFormatHub. All rights reserved.
+&copy; 2026 DocFormatHub. All rights reserved.
