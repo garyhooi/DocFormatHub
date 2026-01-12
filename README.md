@@ -1,6 +1,6 @@
 # DocFormatHub 
 
-![DocFormatHub](https://docformathub.com/og-image.png)
+<img src="https://docformathub.com/og-image.png" alt="DocFormatHub" width="200">
  
  **Offline Developer Tools & Formatters** 
  
