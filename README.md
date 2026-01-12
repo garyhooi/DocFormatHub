@@ -8,7 +8,7 @@
  
  ## 🚀 Visit the website 
  
- ** `https://docformathub.com` ** 
+**[Launch DocFormatHub](https://docformathub.com)**
  
  --- 
  
